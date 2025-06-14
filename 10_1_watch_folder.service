@@ -1,0 +1,10 @@
+[Unit]
+Description=Watch ~/watch and rename new files
+After=default.target
+
+[Service]
+ExecStart=/home/svitlana/testfile/watch_script.sh
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
