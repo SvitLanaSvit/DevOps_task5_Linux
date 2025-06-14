@@ -29,6 +29,7 @@
 ![9_errorHandling.sh](https://github.com/SvitLanaSvit/DevOps_task5_Linux/blob/master/Screenshots/9.2.png)
 
 ## TASK 10
+![10_1_sistemdService.sh](https://github.com/SvitLanaSvit/DevOps_task5_Linux/blob/master/Screenshots/10.png)
 ![10_1_sistemdService.sh](https://github.com/SvitLanaSvit/DevOps_task5_Linux/blob/master/Screenshots/10.1.png)
 ![10_1_sistemdService.sh](https://github.com/SvitLanaSvit/DevOps_task5_Linux/blob/master/Screenshots/10.2.png)
 ![10_1_sistemdService.sh](https://github.com/SvitLanaSvit/DevOps_task5_Linux/blob/master/Screenshots/10.3.png)
